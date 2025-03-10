@@ -19,7 +19,7 @@ function App() {
             </div>
             <div className="md:w-1/3 mt-8 md:mt-0">
               <img 
-                src={require('../Betterimage.ai_1741628283336.jpeg').default}
+                src="/Betterimage.ai_1741628283336.jpeg"
                 alt="Профессиональный психолог"
                 className="rounded-lg shadow-lg w-full max-w-sm"
               />
