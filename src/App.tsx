@@ -19,7 +19,7 @@ function App() {
             </div>
             <div className="md:w-1/3 mt-8 md:mt-0">
               <img 
-                src="https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&w=600"
+                src={require('../Betterimage.ai_1741628283336.jpeg').default}
                 alt="Профессиональный психолог"
                 className="rounded-lg shadow-lg w-full max-w-sm"
               />
