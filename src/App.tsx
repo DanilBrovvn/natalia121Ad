@@ -208,7 +208,7 @@ function App() {
               <Phone className="w-6 h-6 text-[#8B7355] mr-3" />
               <div>
                 <p className="text-[#4A3D35] font-semibold">Телефон</p>
-                <a href="tel:+71234567890" className="text-[#6B5C51] hover:text-[#8B7355]">+7 (123) 456-78-90</a>
+                <a href="tel:+71234567890" className="text-[#6B5C51] hover:text-[#8B7355]">+7 902 909 54 68</a>
               </div>
             </div>
             <div className="flex items-center">
