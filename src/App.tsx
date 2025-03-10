@@ -12,7 +12,7 @@ function App() {
               <h1 className="text-4xl md:text-5xl font-serif text-[#4A3D35] mb-4">Наталья Бойченко</h1>
               <h2 className="text-2xl text-[#6B5C51] mb-6">Профессиональный психолог с 27-летним опытом</h2>
               <p className="text-[#6B5C51] mb-8 text-lg">Помогаю людям обрести гармонию и решить жизненные трудности через индивидуальные онлайн-консультации</p>
-              <a href="tel:+71234567890" className="inline-flex items-center bg-[#8B7355] text-white px-6 py-3 rounded-lg hover:bg-[#6B5C51] transition-colors">
+              <a href="tel:+79029095468" className="inline-flex items-center bg-[#8B7355] text-white px-6 py-3 rounded-lg hover:bg-[#6B5C51] transition-colors">
                 <Phone className="w-5 h-5 mr-2" />
                 Записаться на консультацию
               </a>
